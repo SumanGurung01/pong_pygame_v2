@@ -1,4 +1,4 @@
-# Pong v2 in Python
+# Pong in Python (v2)
 version 2 of pong game using pygame module
 - play against computer 
 - [pong v1](https://github.com/SumanGurung01/pong_pygame.git)
